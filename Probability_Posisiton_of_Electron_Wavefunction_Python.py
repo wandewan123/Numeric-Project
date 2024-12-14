@@ -1,3 +1,5 @@
+#SUMUR POTENSIAL
+
 import numpy as np
 import matplotlib.pyplot as plt
 
@@ -50,7 +52,7 @@ plt.legend()
 plt.grid()
 plt.show()
 
-#@title Osilator Harmonik
+#OSILATOR HARMONIK
 
 import numpy as np
 import matplotlib.pyplot as plt
