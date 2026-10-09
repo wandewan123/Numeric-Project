@@ -20,7 +20,3 @@ A collection of numerical method simulations used to solve physics problems usin
 - Quantum mechanics
 - Data visualization
 - Numerical Method
-
-## 📬 Contact
-📧 Email: wandewan123@gmail.com  
-🌐 LinkedIn: [linkedin.com/in/wandewan123](https://linkedin.com/in/wandewan123)
